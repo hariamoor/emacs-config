@@ -1,1 +1,0 @@
-Emacs configuration - hopefully, this will deprecate [hariamoor/dotfiles](github.com/hariamoor/dotfiles) eventually
